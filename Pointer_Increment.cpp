@@ -13,3 +13,8 @@ int main(){
     aptr++;
     cout<<aptr<<endl;
  }
+/*
+**OUTPUT**
+0
+0x4
+*/
