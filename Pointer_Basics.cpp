@@ -10,3 +10,9 @@ int main(){
    cout<<aptr<<endl;
    cout<<*aptr<<endl; 
 }
+/*
+**Output**
+0x6ffe14
+0x6ffe14
+10
+*/
